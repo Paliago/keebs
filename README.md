@@ -49,11 +49,11 @@ Honestly for being just plastic it sounds great.
 
 I've not received this one yet.
 
-| Part        | Name  | Note |
-| :---------- | :---: | :--- |
-| Switches    |       |      |
-| Keycaps     |       |      |
-| Alternative |       |      |
+| Part        |                          Name                           | Note                                          |
+| :---------- | :-----------------------------------------------------: | :-------------------------------------------- |
+| Switches    |                                                         |                                               |
+| Keycaps     | [GMK Shoko](https://thocstock.com/keycaps/gmk-shoko-r2) | Really expensive. Should probably buy clones. |
+| Alternative |                                                         |                                               |
 
 ## [Vortex Pok3r](https://drop.com/buy/pok3r-rgb-backlit-mechanical-keyboard)
 
